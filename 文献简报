@@ -1,0 +1,59 @@
+# 本周文献简报  自动化全面提炼报告
+
+## [mAbs] Mannose receptor contributes to preferential oligomannosidic glycoform clearance in a murine pharmacokinetics model.
+
+### 期刊含金量  
+该期刊近年平均影响因子（IF）约为6-7分，属JCR一区期刊（生物技术与应用微生物领域）。  
+
+### 核心发现  
+本研究首次直接证实了甘露糖受体（MRC1）参与但非唯一介导治疗性抗体中寡甘露糖型糖型的优先清除。野生型小鼠中寡甘露糖富集抗体的清除速度加快，而MRC1敲除小鼠中此效应减弱。质谱分析进一步显示，与复杂糖型相比，寡甘露糖型在野生型小鼠中清除更快，但敲除小鼠中仍存在部分残留清除效应。此外，研究还发现小鼠模型中存在MRC1非依赖性的复合非岩藻糖化糖型优先清除现象。  
+
+### 研究方法  
+1. **动物模型**：使用野生型（WT）和甘露糖受体敲除（MRC1 KO）小鼠进行药代动力学实验。  
+2. **抗体糖型分析**：通过质谱技术对抗体糖型进行分辨率分析，比较寡甘露糖型与复杂糖型的清除差异。  
+3. **对照实验**：检测内源性小鼠抗体（不含寡甘露糖型）的糖型分布，验证MRC1 KO的特定性影响。  
+
+### 开放问题  
+作者指出需进一步探究其他靶向糖链的受体在抗体清除中的作用（如非MRC1依赖机制），并提示小鼠模型中观察到的复合非岩藻糖化糖型清除现象可能具有物种特异性。
+
+---
+
+## [Gut microbes] <i><b>Akkermansia muciniphila</b></i> <b>modulates intestinal mucus composition to counteract high-fat diet-induced obesity in mice</b>.
+
+### 期刊含金量  
+Gut microbes 近年平均影响因子（IF）约为 9-12 分，属 JCR 一区微生物学/胃肠病学领域的高影响力期刊。
+
+### 核心发现  
+该研究证明，补充活体 *Akkermansia muciniphila* MucT 可通过调节肠道黏液的生成、分泌和组成，抵抗高脂饮食（HFD）诱导的小鼠肥胖和代谢功能障碍。
+
+### 研究方法  
+使用高脂饮食诱导的肥胖小鼠模型，通过活菌（*Akkermansia muciniphila* MucT）干预，分析肠道黏液层的成分变化及其与肥胖、代谢功能的相关性。
+
+### 开放问题  
+摘要中未提及
+
+---
+
+## [Artificial cells, nanomedicine, and biotechnology] The phytochemical analysis of <i>Carissa macrocarpa</i>, cytotoxic potential of fractions, and the molecular modulation on p53 expression in HT-29 and LS174T cell lines.
+
+### 期刊含金量  
+该期刊近年平均影响因子（IF）约为4-6分，属JCR二区期刊（2024-2025年估算数据）。  
+
+### 核心发现  
+本研究证明大果卡利撒（*Carissa macrocarpa*）叶片提取物通过调控p53通路在结直肠癌细胞（HT-29和LS174T）中发挥抗癌作用。其富含黄酮苷类化合物（如山柰酚、槲皮素和异鼠李素衍生物），能显著诱导细胞增殖抑制（LS174T细胞IC50低至0.5 µg/mL）、促进凋亡、阻滞细胞周期于G1/S/G2期，并通过分子对接与动力学模拟证实黄酮苷类与p53蛋白的稳定结合（结合能-7.87至-9.28 kcal/mol）。  
+
+### 研究方法  
+1. **植物化学分析**：LC-MS/MS鉴定叶片次级代谢物（重点关注黄酮苷类）  
+2. **体外实验**：  
+   - 细胞毒性检测（MTT法测定IC50）  
+   - 凋亡与细胞周期分析（流式细胞术）  
+   - p53表达水平检测（Western blot等）  
+3. **计算模拟**：  
+   - 分子对接（AutoDock等评估结合亲和力）  
+   - 100 ns分子动力学模拟验证结合稳定性  
+
+### 开放问题  
+摘要中未提及具体局限性或未来方向，但推测可能需进一步验证体内效果及临床转化潜力。
+
+---
+
